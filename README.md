@@ -5,9 +5,7 @@ Resources to get you started with all things LLM
 Recommendations for staying up to speed with the world of LLMs.
 
 - Newsletter: [AI Tool Report](https://aitoolreport.beehiiv.com/subscribe?ref=EW7agyiz0S)
-
 - Podcast: [Practical AI](https://changelog.com/practicalai)
-
 - Online course [free]: [LLMs: Application through Production](https://learning.edx.org/course/course-v1:Databricks+LLM101x+2T2023/progress)
 
 
@@ -15,9 +13,7 @@ Recommendations for staying up to speed with the world of LLMs.
 Want to try out different models, frameworks and libraries? Here are some online environments to build and experiment
 
 - [Google Colab](https://colab.research.google.com/)
-
 - [Hugging Face](https://huggingface.co/)
-
 - [Replit](https://replit.com/~)
 
 ## Platforms, Frameworks, and Tools (oh my)
