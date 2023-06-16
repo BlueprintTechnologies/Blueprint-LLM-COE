@@ -1,0 +1,40 @@
+openapi: 3.0.1
+info:
+  title: Snoop Dogg Zen Quote Plugin
+  description: A plugin that provides zen quotes in the style of Snoop Dogg.
+  version: 'v1'
+servers:
+  - url: https://[your replit url here].repl.co/
+paths:
+  /:
+    get:
+      operationId: serve_snoop_quote
+      summary: Get a zen quote in the style of Snoop Dogg
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/serveSnoopQuoteResponse'
+        "400":
+          description: Bad Request
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/errorResponse'
+components:
+  schemas:
+    serveSnoopQuoteResponse:
+      type: object
+      properties:
+        quote:
+          type: string
+          description: A zen quote in the style of Snoop Dogg
+
+    errorResponse:
+      type: object
+      properties:
+        error:
+          type: string
+          description: An error message describing the issue
