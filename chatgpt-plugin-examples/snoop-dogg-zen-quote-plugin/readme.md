@@ -18,3 +18,10 @@ Third, for testing and serving my plugin for consumption in ChatGPT, I decided t
 
 ## How To Use
 Grab the files, add them to your replit repo and update the manifest and definition files with your relit repo url. Hit the run button in Replit and poof...you can now add the plugin in ChatGPT.
+
+## What It Looks Like
+So if we ask ChatGPT...without the Snoop plugin, for a zen moment...well, here you go
+![zen moment](./without-snoop-plugin.png)
+
+**But when we use our Snoop plugin**
+![snoop moment](./with-snoop-plugin.png)
