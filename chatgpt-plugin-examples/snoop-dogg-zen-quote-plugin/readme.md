@@ -15,3 +15,6 @@ First, I'm using the [Zen Quotes API](https://zenquotes.io/). It's free and does
 Second, the plugin is made up of a couple of python app files (main.py, snoopify.py), a plugin manifest file (ai-plugin.json), and an OpenAI definition file (openapi.yaml).
 
 Third, for testing and serving my plugin for consumption in ChatGPT, I decided to use [Replit](https://replit.com/)...which is a phenomenal service. Easy to get started with and handles code storage and plugin serving. Replit does way more than that and I definitely recommend trying out all the goodness that Replit has.
+
+## How To Use
+Grab the files, add them to your replit repo and update the manifest and definition files with your relit repo url. Hit the run button in Replit and poof...you can now add the plugin in ChatGPT.
