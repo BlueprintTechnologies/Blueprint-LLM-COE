@@ -10,7 +10,7 @@ You heard about this image generator called [Midjourney](https://www.midjourney.
 
 
 ## The Solution
-Below you will find an example "super" prompt to use in ChatGPT that will transform the chat into a Midjourney prompt generator. Simply copy/paste the prompt below into ChatGPT...and bear witness to the goodness
+Below you will find an example "super" prompt to use in ChatGPT that will transform the chat into a Midjourney prompt generator. Simply copy/paste the prompt below into ChatGPT...and bear witness to the goodness. This prompt was created using our [EX3 prompt framework](https://github.com/BlueprintTechnologies/Blueprint-LLM-COE/blob/main/prompt-examples/LLM%20X%20-%20EX3%20Framework.pdf) as a guide.
 
 **Note: To give the responses from ChatGPT a bit of style, you'll see the prompt includes the 'in the style of Snoop Dogg'. You can can have fun with it.**
 
