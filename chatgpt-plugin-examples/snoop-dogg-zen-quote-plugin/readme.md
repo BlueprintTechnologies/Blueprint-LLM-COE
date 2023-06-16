@@ -5,7 +5,7 @@ Ok, so I needed some ideas for my first ChatGPT plugin, so I went to ChatGPT and
 
 Based upon one its recommendations (a joke plugin)...I thought of the idea to create a Confucius quote in the style of Snoop Dogg type of plugin. The idea would be that if someone needed some wisdom...who better than Snoop D-O-G-G to give em some.
 
-However, after a bit of searching, getting an api for confucius quotes was proving to be difficult...so I pivoted and went with an alternative...zen style quotes using the Zen Quotes api.
+However, after a bit of searching, getting an api for confucius quotes was proving to be difficult...so I pivoted, did a bit more chatting, and went with an alternative...zen style quotes using the Zen Quotes api (thanks ChatGPT).
 
 And thus was born the Snoop Zen Quote ChatGPT plugin.
 
