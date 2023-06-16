@@ -10,14 +10,14 @@ Recommendations for staying up to speed with the world of LLMs.
 
 
 ## Build Environments
-Want to try out different models, frameworks and libraries? Here are some online environments to build and experiment
+Want to try out different models, frameworks and libraries? Here are some online environments to build and experiment on.
 
 - [Google Colab](https://colab.research.google.com/)
 - [Hugging Face](https://huggingface.co/)
 - [Replit](https://replit.com/~)
 
 ## Platforms, Frameworks, and Tools (oh my)
-A growing list of tools, frameworks, vector/embeddings databases and other stuff to build with
+A growing list of tools, frameworks, vector/embeddings databases and other stuff to build with.
 
 - [LangChain](https://python.langchain.com/en/latest/index.html): Framework for developing applications powered by language models.
 - [LlamaIndex](https://gpt-index.readthedocs.io/en/latest/): Data framework for your LLM application
