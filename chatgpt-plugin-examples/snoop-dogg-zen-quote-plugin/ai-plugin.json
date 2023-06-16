@@ -1,0 +1,18 @@
+{
+    "schema_version": "v1",
+    "name_for_human": "Snoop Dogg Zen Quote Plugin",
+    "name_for_model": "snoop_zen",
+    "description_for_human": "Plugin that provides zen quotes in the style of Snoop Dogg.",
+    "description_for_model": "This plugin returns a zen quote in the style of Snoop Dogg. You can use prompts like 'Give me a zen moment', 'What is something Snoop would say to me right now?', 'I need some Snoop goodness', or 'What would Snoop Dogg say right now?' to get a quote.",
+    "auth": {
+        "type": "none"
+    },
+    "api": {
+        "type": "openapi",
+        "url": "https://[your replit url here].repl.co/.well-known/openapi.yaml",
+        "is_user_authenticated": false
+    },
+    "logo_url": "[logo_location].png",
+    "contact_email": "you@you.com",
+    "legal_info_url": "www.yourwebsite.com/legal"
+}
