@@ -24,3 +24,4 @@ A growing list of tools, frameworks, vector/embeddings databases and other stuff
 - [Chroma](https://docs.trychroma.com/): Open-source embeddings database
 - [Psychic](): Data integraion framework for LLMs
 - [Weaviate](https://weaviate.io/developers/weaviate): Open-source vector database
+- [LLMOps resources](https://github.com/tensorchord/Awesome-LLMOps)
