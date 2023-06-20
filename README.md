@@ -27,4 +27,4 @@ A growing list of tools, frameworks, vector/embeddings databases and other stuff
 - [LLMOps resources](https://github.com/tensorchord/Awesome-LLMOps)
 
 ## Other amazing lists and links
-- [https://github.com/dair-ai]: Curated lists of learning resources, tools, and whitepapers.
+- [DAIR.AI](https://github.com/dair-ai): Curated lists of learning resources, tools, and whitepapers.
