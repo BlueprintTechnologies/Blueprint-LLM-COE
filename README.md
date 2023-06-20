@@ -25,3 +25,6 @@ A growing list of tools, frameworks, vector/embeddings databases and other stuff
 - [Psychic](): Data integraion framework for LLMs
 - [Weaviate](https://weaviate.io/developers/weaviate): Open-source vector database
 - [LLMOps resources](https://github.com/tensorchord/Awesome-LLMOps)
+
+## Other amazing lists and links
+- [https://github.com/dair-ai]: Curated lists of learning resources, tools, and whitepapers.
