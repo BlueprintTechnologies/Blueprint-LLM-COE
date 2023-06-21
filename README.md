@@ -24,8 +24,8 @@ A growing list of tools, frameworks, vector/embeddings databases and other stuff
 - [Chroma](https://docs.trychroma.com/): Open-source embeddings database
 - [Psychic](): Data integraion framework for LLMs
 - [Weaviate](https://weaviate.io/developers/weaviate): Open-source vector database
-- [LLMOps resources](https://github.com/tensorchord/Awesome-LLMOps)
 - [OpenLLM](https://github.com/bentoml/OpenLLM): Build, run and deploy LLM applications
 
 ## Other amazing lists and links
-- [DAIR.AI](https://github.com/dair-ai): Curated lists of learning resources, tools, and whitepapers.
+- [DAIR.AI](https://github.com/dair-ai): Curated lists of learning resources, tools, and whitepapers
+- [LLMOps resources](https://github.com/tensorchord/Awesome-LLMOps): Curated list of LLMOps resources
