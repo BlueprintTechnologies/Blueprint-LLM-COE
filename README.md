@@ -25,6 +25,7 @@ A growing list of tools, frameworks, vector/embeddings databases and other stuff
 - [Psychic](): Data integraion framework for LLMs
 - [Weaviate](https://weaviate.io/developers/weaviate): Open-source vector database
 - [OpenLLM](https://github.com/bentoml/OpenLLM): Build, run and deploy LLM applications
+- [HELM](https://crfm.stanford.edu/helm/latest/): Benchmarks for LLMs
 
 ## Other amazing lists and links
 - [DAIR.AI](https://github.com/dair-ai): Curated lists of learning resources, tools, and whitepapers
