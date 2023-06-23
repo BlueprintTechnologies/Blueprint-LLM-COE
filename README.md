@@ -26,6 +26,7 @@ A growing list of tools, frameworks, vector/embeddings databases and other stuff
 - [Weaviate](https://weaviate.io/developers/weaviate): Open-source vector database
 - [OpenLLM](https://github.com/bentoml/OpenLLM): Build, run and deploy LLM applications
 - [HELM](https://crfm.stanford.edu/helm/latest/): Benchmarks for LLMs
+- [Vector DB Benchmark Tool](https://github.com/zilliztech/VectorDBBench)
 
 ## Other amazing lists and links
 - [DAIR.AI](https://github.com/dair-ai): Curated lists of learning resources, tools, and whitepapers
